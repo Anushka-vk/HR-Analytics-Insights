@@ -7,4 +7,5 @@ key Features:
 3. Visualizations: Graphs and charts to depict trends and correlation.
    
 Conclusion:
+
     The analysis highlights high attrition in lower paying roles, uneven income distribution across departments, and a link between lower performance and higher attrition rates these findings can guide HR strategies for improving employee retention and optimizing compensation.
